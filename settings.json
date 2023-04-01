@@ -1,0 +1,11 @@
+{
+    "api_key": "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",
+    "save_path": "C:\\Users\\piyus\\OneDrive\\Desktop\\CustomServer\\OpenAI\\data\\dataset.txt",
+    "settings": {
+        "temperature": "0.7",
+        "maximum_tokens": "1024",
+        "top_p": "1.0",
+        "frequency_penalty": "0.0",
+        "presence_penalty": "0.0"
+    }
+}
